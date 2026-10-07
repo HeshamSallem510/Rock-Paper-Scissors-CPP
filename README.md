@@ -20,7 +20,7 @@ The player competes against the computer for three rounds. The computer randomly
 
 ## Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](Screenshots/gameplay.png)
 
 ## Technologies
 
