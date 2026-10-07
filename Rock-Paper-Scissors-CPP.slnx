@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Rock-Paper-Scissors-CPP.vcxproj" />
+  <Project Path="Rock-Paper-Scissors-CPP.vcxproj" Id="a2df633a-c61e-4f11-8272-b8ac23098042" />
 </Solution>

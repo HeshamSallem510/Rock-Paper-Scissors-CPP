@@ -2,6 +2,8 @@
 
 A simple console-based Rock-Paper-Scissors game developed in C++.
 
+This was my first project focused on practicing functions and procedural programming in C++.
+
 The player competes against the computer for three rounds. The computer randomly selects Stone, Paper, or Scissors, and the program determines the winner of each round and the overall game.
 
 ## Features
@@ -15,6 +17,10 @@ The player competes against the computer for three rounds. The computer randomly
 * Option to replay the game
 * Input validation for player choices
 * Console-based interface
+
+## Screenshots
+
+![Gameplay](screenshots/gameplay.png)
 
 ## Technologies
 
